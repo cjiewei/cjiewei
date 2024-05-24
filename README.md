@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Vera 👋
 
-<!--
-**cjiewei/cjiewei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web development beginner | Curious about UX/UI design | Ready to dive into the world of web development 🌐
 
-Here are some ideas to get you started:
+### 🚀 Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,r)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,sass,jquery)](https://skillicons.dev)
+
+### 🔌 Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql)](https://skillicons.dev)
+
+### 🧰 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,npm,vscode,postman)](https://skillicons.dev)
